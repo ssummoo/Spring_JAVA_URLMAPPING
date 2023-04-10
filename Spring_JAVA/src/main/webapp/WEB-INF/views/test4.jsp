@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>sub1/test4</title>
+<title>test4</title>
 </head>
 <body>
-<h2>sub1/test4</h2>
+<h1>Test4</h1>
 </body>
 </html>
